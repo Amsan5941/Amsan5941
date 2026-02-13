@@ -16,12 +16,6 @@ I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropo
 
 🌐 Full-stack apps with React, Next.js, TypeScript
 
-🧩 Featured Projects
-
-ForgeFit – AI-powered fitness app with personalized workout guidance
-PortfoMeter – AI portfolio analyzer using OCR + GPT for stock insights
-Enterprise AI tooling for anomaly detection & SRE automation
-
 🌱 Currently Exploring
 
 Advanced system design & distributed architectures
@@ -29,10 +23,6 @@ Advanced system design & distributed architectures
 AI agent workflows & prompt engineering optimization
 
 Kubernetes & production-scale infrastructure
-
-💬 Outside of Code
-
-I enjoy basketball, building side projects, exploring new restaurants, traveling, and constantly learning something new every week.
 
 📫 Let’s Connect
 

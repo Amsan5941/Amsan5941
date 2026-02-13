@@ -1,29 +1,24 @@
-# 👋 Hey there
+## Hey there
 
-I’m Amsan Naheswaran, a Software Engineer passionate about building scalable systems, AI-driven applications, and cloud-native platforms. I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropolitan University (2026) and have worked at PointClickCare, Celestica, Weston Foods, and Avolta, where I’ve built enterprise dashboards, AI-powered automation pipelines, and distributed cloud systems.
+I’m Amsan Naheswaran, a Software Engineer passionate about building scalable systems, AI-driven applications, and cloud-native platforms.
 
-# 🚀 What I Work On
+I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropolitan University (2026) and have worked at PointClickCare, Celestica, Weston Foods, and Avolta, where I’ve built enterprise dashboards, AI-powered automation pipelines, and distributed cloud systems.
 
-🧠 AI systems using OpenAI APIs, RAG, and vector databases
+## What I Work On
 
-☁️ Cloud-native apps with AWS, Azure, and GCP
+- AI systems using OpenAI APIs, RAG, and vector databases  
+- Cloud-native applications with AWS, Azure, and GCP  
+- Backend systems using Python, FastAPI, Spring Boot, and Node.js  
+- Data pipelines and analytics dashboards  
+- Full-stack applications with React, Next.js, and TypeScript  
 
-⚙️ Backend systems using Python, FastAPI, Spring Boot, and Node.js
+## Currently Exploring
 
-📊 Data pipelines & analytics dashboards
+- Advanced system design and distributed architectures  
+- AI agent workflows and prompt engineering optimization  
+- Kubernetes and production-scale infrastructure  
 
-🌐 Full-stack apps with React, Next.js, TypeScript
+## Let’s Connect
 
-# 🌱 Currently Exploring
-
-Advanced system design & distributed architectures
-
-AI agent workflows & prompt engineering optimization
-
-Kubernetes & production-scale infrastructure
-
-# 📫 Let’s Connect
-
-[Linkedin](https://www.linkedin.com/in/amsan-naheswaran-243407231/)
-
-[Portfolio](https://amsan-naheswaran.netlify.app/)
+- LinkedIn  
+- Portfolio  

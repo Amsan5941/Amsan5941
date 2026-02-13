@@ -1,10 +1,8 @@
-👋 Hey there
+#👋 Hey there
 
-I’m Amsan Naheswaran, a Software Engineer passionate about building scalable systems, AI-driven applications, and cloud-native platforms.
+I’m Amsan Naheswaran, a Software Engineer passionate about building scalable systems, AI-driven applications, and cloud-native platforms. I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropolitan University (2026) and have worked at PointClickCare, Celestica, Weston Foods, and Avolta, where I’ve built enterprise dashboards, AI-powered automation pipelines, and distributed cloud systems.
 
-I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropolitan University (2026) and have worked at PointClickCare, Celestica, Weston Foods, and Avolta, where I’ve built enterprise dashboards, AI-powered automation pipelines, and distributed cloud systems.
-
-🚀 What I Work On
+#🚀 What I Work On
 
 🧠 AI systems using OpenAI APIs, RAG, and vector databases
 
@@ -16,7 +14,7 @@ I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropo
 
 🌐 Full-stack apps with React, Next.js, TypeScript
 
-🌱 Currently Exploring
+#🌱 Currently Exploring
 
 Advanced system design & distributed architectures
 
@@ -24,7 +22,7 @@ AI agent workflows & prompt engineering optimization
 
 Kubernetes & production-scale infrastructure
 
-📫 Let’s Connect
+#📫 Let’s Connect
 
 [Linkedin](https://www.linkedin.com/in/amsan-naheswaran-243407231/)
 

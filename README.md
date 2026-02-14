@@ -20,5 +20,5 @@ I’m currently completing my BSc in Computer Science (Co-op) at Toronto Metropo
 
 ## 📫 Let’s Connect
 
-- {LinkedIn}(https://www.linkedin.com/in/amsan-naheswaran-243407231/)  
-- Portfolio  
+- [!LinkedIn](https://www.linkedin.com/in/amsan-naheswaran-243407231/)  
+- [Portfolio](https://amsan-naheswaran.netlify.app/)  
